@@ -1,7 +1,7 @@
-#About
+# About
 This is a simple tool to combine multiple small magnified images from flashphotograph and create a berrer image then those available free.
 
-##API Description
+## API Description
 
 http://images1.flashphotography.com/Magnifier/MagnifyRender.ashx?X=242&Y=140&O=26993095&R=00003&F=0045&A=71714&rand=0.6425606573905747
 http://images1.flashphotography.com/Magnifier/MagnifyRender.ashx?X=320&Y=141&O=26993095&R=00001&F=0041&A=71714&rand=0.06721942701854688
