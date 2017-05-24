@@ -25,8 +25,7 @@ F=0041
 > pip install PIL
 
 ```
-2. For each image check the URL in the Magnifier tab. 
-    a. Main.py Line 20 url_path
+2. For each image check the URL in the Magnifier tab. Then change Main.py Line 20 url_path
 ```angular2html
 Sample URL:
 http://images1.flashphotography.com/Magnifier/MagnifyRender.ashx?X=242&Y=140&O=26993095&R=00003&F=0045&A=71714&rand=0.6425606573905747
